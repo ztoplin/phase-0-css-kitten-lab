@@ -1,5 +1,5 @@
 /* Select the image with a class of kitty-1 */
-write-your-selector-here {
+.kitty-1 {
   position: absolute;
   z-index: 1;
   top: 276px;
@@ -7,7 +7,7 @@ write-your-selector-here {
 }
 
 /* Select the image with id of kitty-2 */
-write-your-selector-here {
+#kitty-2 {
   position: absolute;
   z-index: 2;
   top: 212px;
